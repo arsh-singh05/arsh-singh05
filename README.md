@@ -21,8 +21,13 @@
 ![](https://img.shields.io/badge/Power%20BI-F7931E?style=flat-square&logo=powerbi&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsh-singh05&show_icons=true&locale=en&layout=compact" /></p>
-
+## Github Stats
+  <p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsh-singh05&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="arsh-singh05" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
 ## Connect with me
 
 <p align="center">
