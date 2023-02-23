@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Power%20BI-F7931E?style=flat-square&logo=powerbi&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsh-singh05&show_icons=true&locale=en&layout=compact" /></p>
 
 ## Connect with me
 
@@ -29,3 +29,4 @@
     <a href="https://www.linkedin.com/in/arsh-singh05/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     
 </p>
+
